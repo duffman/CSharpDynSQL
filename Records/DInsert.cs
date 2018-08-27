@@ -1,7 +1,6 @@
-﻿using System.Collections.Generic;
-using DynSql.Models;
+﻿using CSharpDynSQL.Models;
 
-namespace DynSql.Records {
+namespace CSharpDynSQL.Records {
 	public class DInsert : IDRecord {
 		public string Table { get; set; }
 		public bool MySQLReplace { get; set; }

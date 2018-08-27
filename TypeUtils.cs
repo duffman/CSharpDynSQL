@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Text;
 using System.Text.RegularExpressions;
-using DataDict = System.Collections.Generic.Dictionary<string, DynSql.Models.FieldVal>;
+using DataDict = System.Collections.Generic.Dictionary<string, CSharpDynSQL.Models.FieldVal>;
 
-namespace DynSql {
+namespace CSharpDynSQL {
 	public class TypeUtils {
 		public static bool IsString(object value) {
 			return (value is string);

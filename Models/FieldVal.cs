@@ -2,7 +2,7 @@
 using System.Globalization;
 using System.Text;
 
-namespace DynSql.Models {
+namespace CSharpDynSQL.Models {
 	public class FieldVal {
 		public string ColName { get; set; }
 

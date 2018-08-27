@@ -1,0 +1,9 @@
+C:\Coldmind\Products\Libraries\CSharpDynSQL\bin\Debug\netcoreapp2.1\CSharpDynSQL.deps.json
+C:\Coldmind\Products\Libraries\CSharpDynSQL\bin\Debug\netcoreapp2.1\CSharpDynSQL.dll
+C:\Coldmind\Products\Libraries\CSharpDynSQL\bin\Debug\netcoreapp2.1\CSharpDynSQL.pdb
+C:\Coldmind\Products\Libraries\CSharpDynSQL\obj\Debug\netcoreapp2.1\CSharpDynSQL.csproj.CoreCompileInputs.cache
+C:\Coldmind\Products\Libraries\CSharpDynSQL\obj\Debug\netcoreapp2.1\CSharpDynSQL.AssemblyInfoInputs.cache
+C:\Coldmind\Products\Libraries\CSharpDynSQL\obj\Debug\netcoreapp2.1\CSharpDynSQL.AssemblyInfo.cs
+C:\Coldmind\Products\Libraries\CSharpDynSQL\obj\Debug\netcoreapp2.1\CSharpDynSQL.dll
+C:\Coldmind\Products\Libraries\CSharpDynSQL\obj\Debug\netcoreapp2.1\CSharpDynSQL.pdb
+C:\Coldmind\Products\Libraries\CSharpDynSQL\obj\Debug\netcoreapp2.1\CSharpDynSQL.csprojAssemblyReference.cache

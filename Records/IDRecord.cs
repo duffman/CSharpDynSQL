@@ -1,3 +1,3 @@
-﻿namespace DynSql.Records {
+﻿namespace CSharpDynSQL.Records {
 	public interface IDRecord {}
 }

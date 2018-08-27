@@ -1,4 +1,4 @@
-﻿namespace DynSql.Records {
+﻿namespace CSharpDynSQL.Records {
 	public class DAnd : IDRecord {
 		public string Col { get; set; }
 		public object EqualValue { get; set; }

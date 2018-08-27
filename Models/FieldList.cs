@@ -1,7 +1,4 @@
-﻿using System.Text;
-using System.Xml;
-
-namespace DynSql.Models {
+﻿namespace CSharpDynSQL.Models {
 	public class FieldList {
 		public FieldVal[] Fields;
 
